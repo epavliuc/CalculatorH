@@ -1,0 +1,18 @@
+C:\Users\Eduard Pavliuc\source\repos\CalcHomework\CalcHomework\bin\Debug\CalcHomework.exe.config
+C:\Users\Eduard Pavliuc\source\repos\CalcHomework\CalcHomework\bin\Debug\CalcHomework.exe
+C:\Users\Eduard Pavliuc\source\repos\CalcHomework\CalcHomework\bin\Debug\CalcHomework.pdb
+C:\Users\Eduard Pavliuc\source\repos\CalcHomework\CalcHomework\obj\Debug\CalcHomework.csprojAssemblyReference.cache
+C:\Users\Eduard Pavliuc\source\repos\CalcHomework\CalcHomework\obj\Debug\CalcHomework.csproj.CoreCompileInputs.cache
+C:\Users\Eduard Pavliuc\source\repos\CalcHomework\CalcHomework\obj\Debug\CalcHomework.exe
+C:\Users\Eduard Pavliuc\source\repos\CalcHomework\CalcHomework\obj\Debug\CalcHomework.pdb
+C:\Users\Eduard Pavliuc\source\repos\CalcHomework\CalcHomework\bin\Debug\BmiCalc.exe
+C:\Users\Eduard Pavliuc\source\repos\CalcHomework\CalcHomework\bin\Debug\BmiCalc.pdb
+C:\Users\Eduard Pavliuc\source\repos\CalcHomework\CalcHomework\bin\Debug\BmiCalc.exe.config
+C:\Users\Eduard Pavliuc\source\repos\CalcHomework\CalcHomework\obj\Debug\CalcHomework.csproj.CopyComplete
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 3\CalcHomework\CalcHomework\bin\Debug\CalcHomework.exe.config
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 3\CalcHomework\CalcHomework\bin\Debug\CalcHomework.exe
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 3\CalcHomework\CalcHomework\bin\Debug\CalcHomework.pdb
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 3\CalcHomework\CalcHomework\obj\Debug\CalcHomework.csprojAssemblyReference.cache
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 3\CalcHomework\CalcHomework\obj\Debug\CalcHomework.csproj.CoreCompileInputs.cache
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 3\CalcHomework\CalcHomework\obj\Debug\CalcHomework.exe
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 3\CalcHomework\CalcHomework\obj\Debug\CalcHomework.pdb
