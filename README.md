@@ -1,2 +1,2 @@
 # Calculator
-This is the first homework commited to github, converting previews calculator into one using classes and methods.
+This is the first homework committed to GitHub, converting previews calculator into one using classes and methods.
