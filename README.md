@@ -1,2 +1,2 @@
 # CalculatorH-
-This is the homework, converting previews homework into one using classes and methods.
+This is the 2nd homework, converting previews calculator into one using classes and methods.
